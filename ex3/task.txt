@@ -1,0 +1,21 @@
+Bayes' and kNN classifier from scratch
+
+    Design a Bayes’ classifier from scratch! 
+
+        Get images of forest and urban landscapes (if needed hand-craft the areas so that it only has pixels of one type).
+
+        Plot their respective histograms and find parametric models for their PDFs → find these parameters
+
+        Given a new image pass each of its pixels through the Bayes test to decide if its forest or urban. Color it red or blue accordingly
+
+        Explain all steps and show the results
+
+    Design a kNN classifier from scratch! 
+
+        Use the same problem as the previous question (i.e. forest-urban classification)
+
+        Design a k-NN classifier now; write all steps clearly
+
+        Present the results
+
+        Change k to 1 to 3 to 5 and comment on the differences you observe
