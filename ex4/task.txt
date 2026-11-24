@@ -1,0 +1,11 @@
+In this lab, you will design a simple ANN to classify patches from satellite image into different categories. You can choose either one of the tasks below or you can also attempt both. In either case, do the following:
+
+    Briefly explain how can you pose the given task into the form of a function. Remember, that if we can pose a challenge as a function then we can use ANN to solve it. 
+    Create your training data. To keep things fast, you can fix the patch size to 200x200 pixels. So, each patch can be used with a tag in the training phase. And in the test phase, you need to find the tag of a new patch. 
+    What is the baritone ANN architecture you will need for this problem? 
+    Run it and note the performance. Change the architecture to add more nodes in the hidden layer, or more layers or change in optimisation algorithm etc. 
+    Try to run at least 5 permutations and consolidate your findings. 
+
+Task 1: Use Sentinel 2 data to classify a patch as urban or forested area. This task is very similar to the one you did in Lab-3. You can see why, if possible, we prefer Bayesian classifiers. 
+
+Task 2: Use Sentinel 5P data from over Warsaw from winter and summer. 5P data can show the concentration of various air pollutants. From the 5P data can you estimate the season? 
